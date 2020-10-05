@@ -1,2 +1,2 @@
 # Landing-Page-Template
- Landing Page para minha cliente Carolina Marints
+ Landing Page para minha cliente, Carolina Marints
