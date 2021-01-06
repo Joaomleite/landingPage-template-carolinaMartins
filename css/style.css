@@ -143,6 +143,11 @@ nav {
     padding: 0px 20px;
 }
 
+.topvoicer{
+
+    font-size: 3.0em;
+    font-weight: 600 !important;
+}
 
 .menu-fixed a{
     font-size: 1.7em;
@@ -315,6 +320,7 @@ nav {
     background-color: #0077B5;
     border: 1.4px solid #0077B5;
 }
+
 
 .icon-linkedin{
     color: #0077B5 !important;
